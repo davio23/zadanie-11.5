@@ -14,4 +14,4 @@ Button.prototype = {
     
 };
 var btn1 = new Button('Hello!');
-    btn1.create();
+btn1.create();
